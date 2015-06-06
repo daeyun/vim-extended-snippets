@@ -1,0 +1,10 @@
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+.netrwhist
+*~
+.directory
+.Trash-*
+.AppleDB
+.AppleDesktop
+.DS_Store
+._*
